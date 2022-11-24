@@ -5,7 +5,7 @@ pip install djangorestframework-simplejwt <br/>
 pip install django-cors-headers <br/>
 
 
-# supperuser email & password
+# superuser email & password
 email: job@gmail.com <br/>
 pass:  adnan2462 <br/>
 
